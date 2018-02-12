@@ -1,0 +1,38 @@
+body {
+    background-image: url('noodles.jpeg');
+    color: white;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    margin-top: 30%;
+    font-family: 'Magra', sans-serif;
+    font-size: 60px;
+    text-shadow: 2px 2px  5px black;
+    font-weight: 700;
+}
+.navbar-onc {
+    font-size: 30px;
+    font-family: 'Magra', sans-serif;
+}
+.lower-content {
+    
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px){
+
+    .navbar-onc {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+}
